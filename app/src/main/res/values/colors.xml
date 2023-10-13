@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colordark">#D3473F</color>
+    <color name="colorlight">#F3847A</color>
+    <color name="colorheading">#E91E63</color>
+    <color name="colorparagraph">#FBFAFA</color>
+    <color name="colorbutton">#E91E63</color>
+
+    <color name="colordarkblue">#241C5C</color>
+    <color name="colorlightblue">#5660A8</color>
+    <color name="colorblue">#B0B2D0</color>
+    <color name="colorpurple">#794571</color>
+    <color name="coloricon">#7A053B</color>
+
+</resources>
